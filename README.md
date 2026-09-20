@@ -56,6 +56,8 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [HouseCanary](https://www.housecanary.com/) - Advanced AVMs and predictive analytics for institutional investors.
 * [Superhighway](https://superhighway.walls.sh/guides/proptech-research-agent) - Live web search API for building Python agents that research PropTech markets, CRE platform landscapes (Yardi/MRI/RealPage/AppFolio), smart building tech, and real estate fintech. Pay-per-call with USDC via x402 — no signup required.
 
+* [Zornade MCP](https://mcp.zornade.com) - Italian cadastral, geospatial and real-estate data (geocoding, parcel profiles, risk, solar, valuations) as MCP tools for AI assistants. Free API key, open source (MIT).
+
 ### 📊 Open Datasets & Research
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
 
