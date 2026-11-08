@@ -51,6 +51,7 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [RealtyMole API](https://www.realtymole.com/api) - Powerful property data API available via RapidAPI. Includes Automated Valuation Models (AVMs), comps, and deep property details.
 * [Zillow API](https://www.zillow.com/howto/api/APIOverview.htm) - The industry standard (though highly restricted) API for retrieving the famous "Zestimate" and deep property details.
 * [Attom Data Solutions](https://www.attomdata.com/) - Premium, enterprise-grade property data, tax data, foreclosures, and highly accurate neighborhood boundaries.
+* [Foreclosure Data Hub](https://www.foreclosuredatahub.com/api-docs) - US foreclosure and REO property data API with coverage across all 50 states and daily updates.
 * [CoreLogic](https://www.corelogic.com/) - The massive data provider used by actual banks and mortgage lenders for underwriting and risk assessment.
 * [Mashvisor API](https://www.mashvisor.com/api) - Deep analytics specifically tailored for short-term rentals (Airbnb/VRBO) vs traditional long-term rentals.
 * [HouseCanary](https://www.housecanary.com/) - Advanced AVMs and predictive analytics for institutional investors.
