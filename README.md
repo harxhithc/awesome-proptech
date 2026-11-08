@@ -51,10 +51,13 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [RealtyMole API](https://www.realtymole.com/api) - Powerful property data API available via RapidAPI. Includes Automated Valuation Models (AVMs), comps, and deep property details.
 * [Zillow API](https://www.zillow.com/howto/api/APIOverview.htm) - The industry standard (though highly restricted) API for retrieving the famous "Zestimate" and deep property details.
 * [Attom Data Solutions](https://www.attomdata.com/) - Premium, enterprise-grade property data, tax data, foreclosures, and highly accurate neighborhood boundaries.
+* [Foreclosure Data Hub](https://www.foreclosuredatahub.com/api-docs) - US foreclosure and REO property data API with coverage across all 50 states and daily updates.
 * [CoreLogic](https://www.corelogic.com/) - The massive data provider used by actual banks and mortgage lenders for underwriting and risk assessment.
 * [Mashvisor API](https://www.mashvisor.com/api) - Deep analytics specifically tailored for short-term rentals (Airbnb/VRBO) vs traditional long-term rentals.
 * [HouseCanary](https://www.housecanary.com/) - Advanced AVMs and predictive analytics for institutional investors.
 * [Superhighway](https://superhighway.walls.sh/guides/proptech-research-agent) - Live web search API for building Python agents that research PropTech markets, CRE platform landscapes (Yardi/MRI/RealPage/AppFolio), smart building tech, and real estate fintech. Pay-per-call with USDC via x402 — no signup required.
+* [DC Hub](https://dchub.cloud) - The live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. REST API plus a remote MCP server (`https://dchub.cloud/mcp`) for AI agents; free tier available.
+* [LLCDrop](https://llcdrop.com) - Florida business filings and owner lookup, including Florida Department of Revenue property records; free search, with a paid API and MCP server.
 
 ### 📊 Open Datasets & Research
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
@@ -63,6 +66,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [HUD User Data](https://www.huduser.gov/portal/datasets/pdrdatas.html) - Comprehensive datasets from the US Department of Housing and Urban Development, crucial for Section 8 and Fair Market Rent (FMR) calculations.
 * [Zillow Research Data](https://www.zillow.com/research/data/) - Free, publicly available CSV datasets on housing metrics, inventory, Days on Market (DOM), and the Zillow Home Value Index (ZHVI).
 * [Redfin Data Center](https://www.redfin.com/news/data-center/) - Incredible macro-level housing market data tracking migration patterns and bidding war rates.
+* [Real Estate Syndication Software Pricing Dataset](https://creassets.com/resources/syndication-software-pricing) - Dated, open (CC BY 4.0) table of published prices for syndication and investor-portal platforms, with a CSV download. Maintained by CRE Assets, the maker of one of the products listed.
 
 ### 🏢 Property Management Software (PMS)
 * [Buildium](https://www.buildium.com/) - Comprehensive accounting, maintenance, and leasing software for professional property managers.
@@ -75,6 +79,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [DealCheck](https://dealcheck.io/) - A very popular cloud-based deal analysis tool that allows you to import property data directly from Zillow.
 * [BiggerPockets Calculators](https://www.biggerpockets.com/investment-calculators) - The legacy standard for deal analysis, though gated behind a Pro paywall after 5 uses.
 * [Altyst](https://altyst.ai/) - Institutional-grade commercial real estate underwriting in the browser. Paste an address or a listing link, or upload an offering memorandum, rent roll or T-12, and it returns a full editable model (cash flows, IRR, equity multiple, DSCR, waterfall, sensitivity tables) for multifamily, hotel, office, retail, industrial, self-storage, medical office, mixed-use, land and ground-up development, with Excel, IC memo and lender package exports.
+* [CRE Assets](https://creassets.com/) - Software for commercial real estate sponsors: underwriting, investor CRM, e-signature subscriptions, branded investor portal, waterfall distributions and deal-level books on one record. Free Start plan; $299/month flat when you collect investor money. (Disclosure: added by its maker.)
 
 ### 🛠️ Open Source Real Estate Tools
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/) - Vital open-source mapping data for building real estate geographic information systems (GIS).
@@ -85,6 +90,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [Agent Skills Work](https://agentskills.work/) - Professional no-code AI tools for real estate teams and business owners.
 * [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for property management and leasing offices, answering inbound calls 24/7, screening prospective tenants, and booking showings.
 * [Engawa MCP](https://engawahomes.com/mcp) - Remote MCP server that lets AI assistants search and compare Japan property listings (akiya, kominka, land, new-builds) in English and estimate closing costs; requires an API key.
+* [RoomLab.app](https://roomlab.app) - AI virtual staging, decluttering and restyling for listing photos, plus walkthrough and house-tour videos made from still photos.
 
 ### 📰 PropTech News & Newsletters
 Stay up to date with the engineering and business side of real estate technology.
