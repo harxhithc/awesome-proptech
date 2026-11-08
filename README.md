@@ -70,6 +70,8 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [Real Estate Syndication Software Pricing Dataset](https://creassets.com/resources/syndication-software-pricing) - Dated, open (CC BY 4.0) table of published prices for syndication and investor-portal platforms, with a CSV download. Maintained by CRE Assets, the maker of one of the products listed.
 
 ### 🏢 Property Management Software (PMS)
+
+* [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Vendor-neutral Jobber vs Housecall Pro comparison useful when property ops evaluate contractor FSM tools. Not FieldScout/fieldscout.io.
 * [Buildium](https://www.buildium.com/) - Comprehensive accounting, maintenance, and leasing software for professional property managers.
 * [AppFolio](https://www.appfolio.com/) - High-end, AI-driven property management software typically used by managers with 500+ doors.
 * [TenantCloud](https://www.tenantcloud.com/) - Excellent, affordable management software tailored for DIY landlords and small portfolios.
