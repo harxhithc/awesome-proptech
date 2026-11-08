@@ -59,6 +59,8 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [DC Hub](https://dchub.cloud) - The live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. REST API plus a remote MCP server (`https://dchub.cloud/mcp`) for AI agents; free tier available.
 * [LLCDrop](https://llcdrop.com) - Florida business filings and owner lookup, including Florida Department of Revenue property records; free search, with a paid API and MCP server.
 
+* [Zornade MCP](https://mcp.zornade.com) - Italian cadastral, geospatial and real-estate data (geocoding, parcel profiles, risk, solar, valuations) as MCP tools for AI assistants. Free API key, open source (MIT).
+
 ### 📊 Open Datasets & Research
 * [Resimanor South Korea Stress DSR Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) - Open CC BY 4.0 dataset with reproducible South Korean mortgage-limit scenarios under 2026 stress DSR rules, available in CSV/JSON with methodology and DOI archive.
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
