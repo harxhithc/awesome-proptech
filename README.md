@@ -60,6 +60,7 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [LLCDrop](https://llcdrop.com) - Florida business filings and owner lookup, including Florida Department of Revenue property records; free search, with a paid API and MCP server.
 
 ### 📊 Open Datasets & Research
+* [Resimanor South Korea Stress DSR Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) - Open CC BY 4.0 dataset with reproducible South Korean mortgage-limit scenarios under 2026 stress DSR rules, available in CSV/JSON with methodology and DOI archive.
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
 
 * [US Census Bureau API](https://www.census.gov/data/developers/guidance/api-user-guide.html) - The ultimate source for demographic, economic, and housing market data.
