@@ -58,6 +58,7 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [Superhighway](https://superhighway.walls.sh/guides/proptech-research-agent) - Live web search API for building Python agents that research PropTech markets, CRE platform landscapes (Yardi/MRI/RealPage/AppFolio), smart building tech, and real estate fintech. Pay-per-call with USDC via x402 — no signup required.
 * [DC Hub](https://dchub.cloud) - The live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. REST API plus a remote MCP server (`https://dchub.cloud/mcp`) for AI agents; free tier available.
 * [LLCDrop](https://llcdrop.com) - Florida business filings and owner lookup, including Florida Department of Revenue property records; free search, with a paid API and MCP server.
+* [BatchData](https://batchdata.io) - API-first U.S. real estate data platform: property search and lookup, skip tracing, valuations, address verification and a hosted MCP server for AI agents. Coverage spans 169 million+ U.S. parcels.
 
 * [Zornade MCP](https://mcp.zornade.com) - Italian cadastral, geospatial and real-estate data (geocoding, parcel profiles, risk, solar, valuations) as MCP tools for AI assistants. Free API key, open source (MIT).
 
