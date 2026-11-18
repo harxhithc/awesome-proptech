@@ -70,6 +70,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [Zillow Research Data](https://www.zillow.com/research/data/) - Free, publicly available CSV datasets on housing metrics, inventory, Days on Market (DOM), and the Zillow Home Value Index (ZHVI).
 * [Redfin Data Center](https://www.redfin.com/news/data-center/) - Incredible macro-level housing market data tracking migration patterns and bidding war rates.
 * [Real Estate Syndication Software Pricing Dataset](https://creassets.com/resources/syndication-software-pricing) - Dated, open (CC BY 4.0) table of published prices for syndication and investor-portal platforms, with a CSV download. Maintained by CRE Assets, the maker of one of the products listed.
+* [US Real Estate Listing Photo Data](https://www.october-ai.com/data) - Open (CC BY 4.0) datasets from published price lists and rulebooks: real estate photography prices from 154 photographers in 24 US metros, real estate video and vacation rental photography prices, virtual staging prices, photo rules at 22 MLSs and photo requirements of 11 listing platforms. CSV/JSON on [GitHub](https://github.com/October-ai-jpg/listing-photo-data) with a DOI archive on Zenodo. Maintained by October, a listing photo app.
 
 ### 🏢 Property Management Software (PMS)
 
