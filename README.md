@@ -96,6 +96,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for property management and leasing offices, answering inbound calls 24/7, screening prospective tenants, and booking showings.
 * [Engawa MCP](https://engawahomes.com/mcp) - Remote MCP server that lets AI assistants search and compare Japan property listings (akiya, kominka, land, new-builds) in English and estimate closing costs; requires an API key.
 * [RoomLab.app](https://roomlab.app) - AI virtual staging, decluttering and restyling for listing photos, plus walkthrough and house-tour videos made from still photos.
+* [October](https://www.october-ai.com) - iPhone app that guides a walk through each room (where to stand, phone kept level, the app takes the shots) and returns finished listing photos and a walkthrough video, usually within a few hours. From $49 per place; first place free.
 
 ### 📰 PropTech News & Newsletters
 Stay up to date with the engineering and business side of real estate technology.
