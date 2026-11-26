@@ -78,6 +78,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [AppFolio](https://www.appfolio.com/) - High-end, AI-driven property management software typically used by managers with 500+ doors.
 * [TenantCloud](https://www.tenantcloud.com/) - Excellent, affordable management software tailored for DIY landlords and small portfolios.
 * [Stessa](https://www.stessa.com/) - Specifically designed for real estate accounting and tracking the financial performance of portfolios.
+* [GoAccess](https://www.goaccess.com/visitor-management) - Visitor management for HOAs and gated communities, with resident-issued guest passes, gatehouse check-in, and access reporting for community managers.
 
 ### 📈 Investment & Deal Analysis Software
 * [AssetCalcs.com](https://assetcalcs.com) - The fastest, zero-JS web suite for calculating Cap Rates, DSCR, BRRRR, and more.
